@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+ <html>
+     <head>
+ <title>Bank card assignment</title>
+     </head>
+     <body> 
+         First NAME
+         <br>
+<label for= 'First name'> </label>
+ <input type="text" id= 'First name'>
+<br>
+Second NAME
+<br>
+           <label for= 'second name'></label>
+           <input type= 'text' id= 'second name'>
+<br>
+Email Address:
+<br>
+<label for= 'email'> </label>
+<input type="text" id="email">
+<br>
+Date of birth
+<label for="date of birth"></label>
+<input type="date" id="date of birth">
+<br>
+<fieldset>
+    <legend>Credit card types</legend>
+    <img src="">
+    <label for="user choice"></label>
+    <input type="checkbox id= 'angry'>
+ 
+       
+</fieldset>
