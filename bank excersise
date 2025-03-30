@@ -25,9 +25,23 @@ Date of birth
 <br>
 <fieldset>
     <legend>Credit card types</legend>
-    <img src="">
-    <label for="user choice"></label>
-    <input type="checkbox id= 'angry'>
+    <input type="radio" id="visa" name="cardtype" value="visa">
+    <img src="in-visa-gold-card-498x280.webp" alt=""Visa width="90" height="55">
+    <br>
+
+    <input type="radio" id="mastercard" name="cardtype" value="mastercard">
+    <img src="standard-mastercard-card-debit_1280x720.png" alt="MasterCard" width="125" height="75">
+    <br>
+
+    <input type="radio" id american express" name="cardtype" value="american express">
+    <img src="NUS000000174_480x304_straight_withname.avif" alt="American Express" width="110" height="65">
+    <br>
+    <label for="card"></label>
+    <input type="text" name="card number" id="card">Card number
+    <br>
+    year of expiry
+    <label for="year of expiry"></label>
  
        
 </fieldset>
+
