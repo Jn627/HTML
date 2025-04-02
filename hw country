@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -15,5 +14,29 @@
             <h3>Fun facts about South Sudan</h3>
             </u>
             <li>South sudan is a young baby nation founded in 2011</li>
-            <li>South sudan is pooooooooooor average yearly salary is equal to 550 euro</li>
-        </ul>
+            <li>South sudan is pooooooooooor average yearly salary is equal </li
+        
+        
+        <li>Eiffel Tower</li>
+        <li>Louvre Museum</li>
+    </ul>
+    <h2>Country Details</h2>
+    <table>
+        <tr>
+            <th>Capital</th>
+            <td>Paris</td>
+        </tr>
+        <tr>
+            <th>Official Language</th>
+            <td>....</td>
+        </tr>
+        <tr>
+            <th>Population</th>
+            <td>8 million</td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
+
+            
