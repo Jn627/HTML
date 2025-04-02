@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+<title>South Sudan</title>
+    </head>
+    <body> 
+        <h3>South Sudan</h3>
+        <form id="contact-form">
+        <br>
+        <img src="women.jpg" width='800' height='500' >   <img src="South-Sudan.jpg" width="500" height="300"> 
+        <br>
+        
+            <u>
+            <h3>Fun facts about South Sudan</h3>
+            </u>
+            <li>South sudan is a young baby nation founded in 2011</li>
+            <li>South sudan is pooooooooooor average yearly salary is equal to 550 euro</li>
+        </ul>
