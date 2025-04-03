@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+ <html>
+     <head>
+ <title>Bank card assignment</title>
+     </head>
+     <body> 
+         First NAME
+         <br>
+         <form id ='userSubmission'>
+<label for= 'Firstname'> </label>
+ <input type="text" id= 'Firstname'>
+<br>
+Home county
+<br>
+           <label for= 'secondname'></label>
+           <input type= 'text' id= 'secondname'>
+<br>
+Email Address:
+<br>
+<label for= 'email'> </label>
+<input type="text" id="email">
+<br>
+Date of birth
+<label for="dateofbirth"></label>
+<input type="date" id="dateofbirth">
+<br>
+    
+ 
+    <button type="submit">Submit </button>
+</fieldset>
+         </form>
+<script>
+    
+
+
+let formId = document.getElementById('userSubmission')
+formId.addEventListener('submit',userdata)
+function userdata(event){
+    event.preventDefault()
+let username = document.getElementById('Firstname')
+console.log(username.value)
+
+let usersecname = document.getElementById('secondname')
+console.log(username.value)
+
+let useremail = document.getElementById('email')
+console.log(useremail.value)
+let userdate = document.getElementById('dateofbirth')
+console.log(userdate.value)
+}
+</script>
+    
+</body>
+ </html>
